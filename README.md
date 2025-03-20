@@ -65,9 +65,7 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Output
 
-
-![Uploading WhatsApp Image 2025-03-19 at 10.05.23 PM.jpeg…]()
-
+![WhatsApp Image 2025-03-19 at 10 05 23 PM](https://github.com/user-attachments/assets/39983dcc-4733-4465-9e73-5d2052fa55b9)
 
 
 # Result 
