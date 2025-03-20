@@ -59,16 +59,18 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
+![WhatsApp Image 2025-03-19 at 10 05 41 PM](https://github.com/user-attachments/assets/34a2f333-eee7-4432-b76f-db5e53e377b8)
 
 
 
 # Output
 
 
+![Uploading WhatsApp Image 2025-03-19 at 10.05.23 PM.jpeg…]()
 
 
 
 # Result 
-Thus the bill of materials is prepared for the given PCB circuit.
+Thus the bill of materials is prepared for the 5V Power supply module PCB circuit.
 
 
